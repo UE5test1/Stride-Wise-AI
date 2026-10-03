@@ -4,7 +4,7 @@ StrideAI is a free personal trainer app that tracks your workouts and gives you 
 
 
 
-
+Just open mian/reame-rot.ymlt
 
 
 
