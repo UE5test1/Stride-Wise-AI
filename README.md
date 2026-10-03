@@ -62,6 +62,9 @@ About 250 MB of free disk space
 
 Changelog (version 1.1.1)
 
+   See [the old guide](docs/old-guide.md) for details.
+   Edit `src/` followed by a misspelled version of a real file name.
+
 
 
 New app icon
